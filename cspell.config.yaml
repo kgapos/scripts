@@ -1,0 +1,11 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - Apostolopoulos
+  - kgapos
+  - Kostas
+  - pwsh
+ignoreWords: []
+import: []
